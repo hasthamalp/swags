@@ -12,7 +12,7 @@
 <img src="./2020-21/mongodb.jpg"width="250px">
 <img src="./2020-21/vonage.jpg"width="250px"height="250px">
 <img src="./2021-22/gitlab.jpg"width="250px">
-<img src="./2021-22/gitlab2.jpg"width="250px"height="25px">
+<img src="./2021-22/gitlab2.jpg"width="250px"height="150px">
 <img src="./2021-22/devtron.jpg"width="250px" height="150px">
 
 
